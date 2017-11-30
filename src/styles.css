@@ -23,7 +23,7 @@
 }
 #intro{
 	position: relative;
-	padding-top: 20%;
+	padding-top: 100px;
 }
 .intro-wrapper{
 	position: fixed;
@@ -185,7 +185,20 @@
 	  transition: all 0.5s ease-in;
   -webkit-transition: all 0.5s ease-in;
 }
-
+.formbutton{
+	display: inline-block;
+	margin-top: 20px;
+	border-radius: 5px;
+	background-color: rgb( 144, 210, 61 );
+	border: solid 1px rgb( 144, 210, 61 );
+	width: 100%;
+	color: #ffffff;
+	font-size: 2.2em;
+	font-weight: 700;
+	padding: 15px;
+	text-align: center;
+	cursor: pointer;
+}
 .back-btn{
 	position:absolute;
 	top:20px;

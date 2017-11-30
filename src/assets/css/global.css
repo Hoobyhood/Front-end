@@ -235,7 +235,7 @@ h1{
 }
 h1 .logo{
 	display: block;
-	width: 100px;
+	width: 60px;
 }
 .logo-text{
 	display: block;
@@ -262,7 +262,7 @@ h1 .logo{
 }
 #header nav li a{
 	color: #ffffff;
-	font-size: 1.5em;
+	font-size: 15px;
 	font-weight: 100;
 	text-transform: uppercase;
 }
@@ -338,7 +338,7 @@ h1 .logo{
 	position: relative;
 	clear: both;
 	background: #90d23d;
-	padding: 39px 0;
+	padding: 0px 0;
 	z-index: 100;
 }
 .social{
@@ -386,7 +386,7 @@ h1 .logo{
 	text-align: center;
 	display: block;
 	color: #ffffff;
-	font-size: 1.8em;
+	font-size: 14px;
 	font-weight: 300;
 	padding-bottom: 5px;
 }
